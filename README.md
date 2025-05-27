@@ -1,4 +1,5 @@
 # Project Description
+Rocketseat NLW Connect project for an event.
 
 ## About the Event
 A LIVE event created by and for developers passionate about building innovative solutions and sharing knowledge. Join us to dive into the latest trends in software development, system architecture, and emerging technologies through talks, workshops, and hackathons.
@@ -6,10 +7,10 @@ A LIVE event created by and for developers passionate about building innovative 
 When: March 15–17 | 6 PM to 9 PM
 Where: Online & Free
 
-Registration
-Full Name
-Email
-Confirm
+- Registration
+- Full Name
+- Email
+- Confirm
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
