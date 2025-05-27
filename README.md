@@ -1,6 +1,8 @@
 # Project Description
 Rocketseat NLW Connect project for an event.
 
+Link: https://codecraft-summit-2025.vercel.app
+
 ## About the Event
 A LIVE event created by and for developers passionate about building innovative solutions and sharing knowledge. Join us to dive into the latest trends in software development, system architecture, and emerging technologies through talks, workshops, and hackathons.
 
